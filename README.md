@@ -1,7 +1,7 @@
 # Guia GIT para iniantes
 Guia Completo de Comandos Git para Iniciantes
 
-# Guia Completo de Comandos Git para Iniciantes
+---
 
 ## 1. Configuração Inicial
 
