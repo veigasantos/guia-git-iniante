@@ -161,7 +161,7 @@ git push -u origin main         # Primeira vez (define upstream)
 git push                        # Após definir upstream
 ```
 
-### Baixar alterações (pull/fetch)
+### Baixar alterações (pull/fetch) que estão no repositório remoto (por exemplo, no GitHub) e atualiza o repositório local.
 ```bash
 git pull origin main            # Baixar e fazer merge
 git fetch origin               # Baixar sem fazer merge
@@ -261,7 +261,7 @@ git stash drop                 # Deletar último stash
    git commit -m "Descrição das alterações"
    ```
 
-5. **Enviar para repositório remoto**
+5. **Envia suas alterações locais para o repositório remoto (ex: GitHub).**
    ```bash
    git push origin main
    ```
